@@ -1,2 +1,1 @@
-# pure-js
-This is TODO list on pure JavsScript
+This is TODO list on pure JS
